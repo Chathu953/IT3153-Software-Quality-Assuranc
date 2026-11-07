@@ -1,0 +1,8 @@
+tests/SearchTest.class
+tests/SearchResultTest.class
+tests/LoginTest.class
+pages/LoginPage.class
+tests/LinkedInTest.class
+base/Config.class
+base/BaseTest.class
+pages/SearchPage.class
